@@ -1,3 +1,3 @@
 # 99scala
 
-TODO: sbt.
+TODO: sbt, tests.
